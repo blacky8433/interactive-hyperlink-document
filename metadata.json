@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Hyperlink Document",
+  "description": "An editable document where every word automatically becomes a clickable Google search link, creating a powerful tool for research and writing.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
